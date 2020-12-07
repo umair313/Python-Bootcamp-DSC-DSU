@@ -50,7 +50,7 @@ to Display reverse Diagonally I have called ``to_diagonally()``  again by passin
 
 <br>``Output``
 
-<p align="center"><img src="Diagonally.PNG"></img></p>
+<p align="center"><img src="./output/Diagonally.PNG"></img></p>
 
 ## Task 2
 
@@ -163,8 +163,8 @@ and all the ither stuf like ``' '*(10-len('name'))`` will just add some extra sp
 
 <br>``Output``
 
-<p align="center"><img src="records1.PNG"></img></p>
-<p align="center"><img src="records2.PNG"></img></p>
+<p align="center"><img src="./output/records1.PNG"></img></p>
+<p align="center"><img src="./output/records2.PNG"></img></p>
 
 ## Task 3
 problem 3 was to display lyrics of a song by delaying each line with 1 second.
@@ -247,4 +247,4 @@ then I have displayed song name , song artist
 and then I have called ``playSong()``  in it run a loop on ``song`` because now its a list if string and on each iteration i have used ``sleep(1)`` to delay each output 1 sec and line will be printed.
 
 output:
-<p align="center"><img src="song.PNG"></img></p>
+<p align="center"><img src="./output/song.PNG"></img></p>
